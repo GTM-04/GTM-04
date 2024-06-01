@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning Js and Python
 - 💞️ I’m looking to collaborate on complex projects
-- 📫 How to reach me mail on georgetechzw@gmail.com
+- 📫 How to reach me mail on geotechworldzw@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: If its easy do it yourself
 
