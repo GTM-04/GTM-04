@@ -170,7 +170,7 @@ I'm always excited to work on innovative projects that leverage AI/ML to solve r
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-mutakura-7a552b250/)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmutakura8@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GTM-04)
 
 **"Innovation is not about the tools you have, but the problems you solve"**
